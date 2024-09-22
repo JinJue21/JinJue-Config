@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "m-team.cc",
+        "hdtime.org",
+        "pthome.net",
+        "pterclub.com",
+        "hdhome.org",
+        "keepfrds.com",
+        "btschool.club",
+        "hares.top",
+        "audiences.me",
+        "ourbits.club",
+        "jinjue.online",
+        "jinjue.us.kg"
+      ]
+    }
+  ]
+}
