@@ -38,3 +38,4 @@ payload:
   - DOMAIN-SUFFIX,130519.xyz
   - DOMAIN-KEYWORD,gh-proxy
   - DOMAIN-KEYWORD,transmissionbt.com
+  - DOMAIN-KEYWORD,plex.tv
