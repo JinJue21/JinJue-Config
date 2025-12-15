@@ -37,5 +37,6 @@ payload:
   - DOMAIN-SUFFIX,shyxhy.com
   - DOMAIN-SUFFIX,130519.xyz
   - DOMAIN-KEYWORD,gh-proxy
-  - DOMAIN-KEYWORD,transmissionbt.com
   - DOMAIN-KEYWORD,plex.tv
+  - DOMAIN-SUFFIX,kurogames.com
+  - DOMAIN-SUFFIX,aki-game.com
