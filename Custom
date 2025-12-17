@@ -40,3 +40,4 @@ payload:
   - DOMAIN-KEYWORD,plex.tv
   - DOMAIN-KEYWORD,listdl
   - IP-CIDR,43.132.128.152/32
+  - IP-CIDR,43.154.97.170/32
