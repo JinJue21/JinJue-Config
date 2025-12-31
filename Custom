@@ -38,6 +38,3 @@ payload:
   - DOMAIN-SUFFIX,130519.xyz
   - DOMAIN-KEYWORD,gh-proxy
   - DOMAIN-KEYWORD,plex.tv
-  - DOMAIN-KEYWORD,listdl
-  - IP-CIDR,43.132.128.152/32
-  - IP-CIDR,43.154.97.170/32
