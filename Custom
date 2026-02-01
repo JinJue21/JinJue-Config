@@ -36,6 +36,6 @@ payload:
   - DOMAIN-SUFFIX,ottiptv.cc
   - DOMAIN-SUFFIX,shyxhy.com
   - DOMAIN-SUFFIX,130519.xyz
+  - DOMAIN-SUFFIX,unpkg.com
   - DOMAIN-KEYWORD,gh-proxy
   - DOMAIN-KEYWORD,plex.tv
-  - DOMAIN-KEYWORD,qianwen.com
