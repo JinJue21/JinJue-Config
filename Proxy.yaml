@@ -1,1 +1,3 @@
-
+payload:
+  # > Proxy
+  - DOMAIN-SUFFIX,unpkg.com
